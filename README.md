@@ -3,7 +3,7 @@ A CLI application meant to simulate a store. Uses MySQL, Javascript, and Node.
 
 **BAmazonCustomer**
 
-Video Link: https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing
+Video Link: <a href="https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing">
 
 This application is used by the customer to shop at our Amazon store.
 
@@ -21,7 +21,7 @@ As stated, the user may choose to exit the program at the main menu by selecting
 
 **BAmazonManager**
 
-Video Link: https://drive.google.com/file/d/1I3nUwZ797cSWtaS6YN0P3l1eItMqoHte/view?usp=sharing
+Video Link: <a href="https://drive.google.com/file/d/1I3nUwZ797cSWtaS6YN0P3l1eItMqoHte/view?usp=sharing">
 
 This application is used by the manager of the Amazon store to manage what's being sold at the store.
 
