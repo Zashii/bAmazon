@@ -1,7 +1,7 @@
 # BAmazon
 A CLI application meant to simulate a store. Uses MySQL, Javascript, and Node.
 
-#BAmazonCustomer
+##BAmazonCustomer
 
 Video Link: https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing
 
@@ -19,7 +19,7 @@ However, if the quantity is sufficient, then the order will be processed, the my
 
 As stated, the user may choose to exit the program at the main menu by selecting the last option, which will display a final "Thank you for shopping at Amazon" message before terminating.
 
-#BAmazonManager
+##BAmazonManager
 
 Video Link: https://drive.google.com/file/d/1I3nUwZ797cSWtaS6YN0P3l1eItMqoHte/view?usp=sharing
 
