@@ -1,6 +1,8 @@
 # BAmazon
 A CLI application meant to simulate a store. Uses MySQL, Javascript, and Node.
 
+Run BAmazonCreate.sql to create the database.
+
 **BAmazonCustomer**
 
 Video Link: [https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing](https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing)
