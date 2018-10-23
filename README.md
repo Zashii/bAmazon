@@ -7,7 +7,7 @@ Run BAmazonCreate.sql to create the database.
 
 Video Link: [https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing](https://drive.google.com/file/d/1KVua8EGJt624gBH_rVsBIYmSFOErtxPW/view?usp=sharing)
 
-Image: [Image](https://i.gyazo.com/83c45d17f50494c159157fbd63d1d4fc.png)
+Image: ![Image](https://i.gyazo.com/83c45d17f50494c159157fbd63d1d4fc.png)
 
 This application is used by the customer to shop at our Amazon store.
 
@@ -27,7 +27,7 @@ As stated, the user may choose to exit the program at the main menu by selecting
 
 Video Link: [https://drive.google.com/file/d/1I3nUwZ797cSWtaS6YN0P3l1eItMqoHte/view?usp=sharing](https://drive.google.com/file/d/1I3nUwZ797cSWtaS6YN0P3l1eItMqoHte/view?usp=sharing)
 
-Image: [Image](https://i.gyazo.com/2e8bd202baaa8b9d5d2f4b04372cf580.png)
+Image: ![Image](https://i.gyazo.com/2e8bd202baaa8b9d5d2f4b04372cf580.png)
 
 This application is used by the manager of the Amazon store to manage what's being sold at the store.
 
